@@ -1,0 +1,32 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "[Boom]",
+      "color": null,
+      "fields": [
+        {
+          "name": "IP",
+          "value": "1.1.1.1",
+          "inline": true
+        },
+        {
+          "name": "Hostname",
+          "value": "DSKTP1",
+          "inline": true
+        },
+        {
+          "name": "Admin",
+          "value": ":white_check_mark:",
+          "inline": true
+        },
+        {
+          "name": "Time Connected",
+          "value": "8/1/2025 - 11:05pm PST",
+          "inline": true
+        }
+      ]
+    }
+  ],
+  "attachments": []
+}
